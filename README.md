@@ -1,6 +1,7 @@
-# flutter_localization1
+# Example for how to use multiple language in flutter app
 
-A new Flutter project.
+Details :- This repository is example for how to use multiple language in flutter by using easy localization package.
+packages - easy localization package
 
 ## Getting Started
 
